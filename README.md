@@ -12,10 +12,15 @@ You, as a noble of the Court of Chaos, must:
 The game world consists of caves spanning **10 levels**, each represented as a 2D grid of tiles (walls, floor, exits). At the final level awaits the **Serpent of Chaos**, guarding the Jewel.
 
 <p align="center">
-  <img src="screen/ch_selection.png" alt="Character Selection" width="400"/>
-  <img src="screen/game_window.png" alt="Gameplay Window" width="400"/>
+  <img src="screen/ch_selection.png" alt="Character Selection" width="350"/>
 </p>
----
+
+
+
+<p align="center">
+  <img src="screen/game_window.png" alt="Gameplay Window" width="350"/>
+</p>
+
 
 ## ◆ Gameplay
 
